@@ -2,7 +2,7 @@
 
 Monitor and manage remote Hermes Agent profiles over SSH: kanban boards, a profile canvas, skills, cron jobs and chat.
 
-![Hermes Control Center: a kanban board with sample data, the Connections settings where you add an SSH host alias, and the chat panel in its "No SSH host" start state. No real host is connected.](https://raw.githubusercontent.com/Xia-Ataraxia/obsidian-hermes/main/docs/assets/demo.webp)
+![Hermes Control Center: a kanban board with sample data, the Connections settings where you add an SSH host alias, and the chat panel in its "No SSH host" start state. No real host is connected.](https://raw.githubusercontent.com/GoBeromsu/obsidian-hermes/main/docs/assets/demo.webp)
 
 ## Features
 
@@ -24,7 +24,7 @@ Desktop only, because the plugin runs your system's `ssh`.
 
 **Community plugins**: open Settings, Community plugins, Browse, search for "Hermes Control Center", then Install and Enable.
 
-**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/Xia-Ataraxia/obsidian-hermes/releases/latest) into `<vault>/<configDir>/plugins/hermes-control-center/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
+**Manual**: download `main.js`, `manifest.json` and `styles.css` from the [latest release](https://github.com/GoBeromsu/obsidian-hermes/releases/latest) into `<vault>/<configDir>/plugins/hermes-control-center/`, then enable the plugin. `<configDir>` is your vault's configuration folder (`.obsidian` by default).
 
 ## Shell and network access
 
